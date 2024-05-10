@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/C6_PatronFacade.iml" filepath="$PROJECT_DIR$/C6_PatronFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatronProxyMapa.iml" filepath="$PROJECT_DIR$/PatronProxyMapa.iml" />
     </modules>
   </component>
 </project>
